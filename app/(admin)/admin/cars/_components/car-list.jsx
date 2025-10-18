@@ -22,7 +22,7 @@ const CarsList = () => {
                     Add Car
                 </Button>
 
-                <form onSubmi={handleSearchSubmit}
+                <form onSubmit={handleSearchSubmit}
                     className='flex w-full sm:w-auto'
                 >
 
